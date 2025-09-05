@@ -73,9 +73,8 @@ Add support for multi-label classification (resumes can belong to multiple field
 
 Deploy as a cloud-based API for integration with recruitment systems.
 
-👩‍💻 **Author**
+👩‍💻 ****Author****
 
 Developed by Botayla Amin
-Kaggle Notebook: Resume Screening with BERT
 
-تحب أعمل نسخة تانية مختصرة (مختصر README) عشان تبقى مناسبة لو هترفعه على Kaggle أو GitHub؟
+Kaggle Notebook: Resume Screening with BERT
