@@ -1,4 +1,5 @@
 📄 **Resume Screening with BERT**
+
 🔍 **Overview**
 
 This project is a Resume Screening System that uses NLP (Natural Language Processing) and BERT-based models to automatically classify resumes into different professional fields and extract relevant skills.
@@ -78,3 +79,4 @@ Deploy as a cloud-based API for integration with recruitment systems.
 Developed by Botayla Amin
 
 Kaggle Notebook: Resume Screening with BERT
+
